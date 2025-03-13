@@ -15,9 +15,9 @@ Ce projet est une application interactive développée avec Streamlit, permettan
 - Plotly : Graphiques interactifs.
   ## Structure du projet
   📦 Projet_Analyse_Ventes
- ┣ 📜 dashboard.py                 # Script principal de l'application
- ┣  📜 train.csv                   # Fichier des ventes à analyser
- ┣ 📜 README.md                     # Documentation du projet
+ - ┣ 📜 dashboard.py                 # Script principal de l'application
+ - ┣  📜 train.csv                   # Fichier des ventes à analyser
+ - ┣ 📜 README.md                     # Documentation du projet
 
 ## Fonctionnalités
  Indicateurs clés : Affichage du total des ventes et des statistiques générales.
