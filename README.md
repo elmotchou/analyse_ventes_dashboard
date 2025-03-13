@@ -1,4 +1,4 @@
-# AnalysedesTendances de Vente et Comportements d’Achat
+# Analyse desTendances de Vente et Comportements d’Achat
 
 ##  Description
 Ce projet est un tableau de bord interactif développé avec Streamlit, permettant d'analyser les tendances des ventes et les comportements d'achat à partir d'un dataset de transactions commerciales. Il offre plusieurs visualisations interactives pour aider à identifier les tendances clés et à optimiser la prise de décision.
@@ -7,14 +7,14 @@ Le projet utilise des bibliothèques comme pandas, matplotlib, seaborn et plotly
 ---
 
 ## Fonctionnalités
-### Indicateurs clés : Affichage du total des ventes et des statistiques générales.
-### Filtrage dynamique : Sélection de la période, de la région et de la catégorie de produits.
-### Analyse des produits et clients : Identification des produits les plus vendus et des clients les plus rentables.
-### Corrélation des variables : Visualisation des liens entre ventes et délais de livraison.
-### Suivi des tendances des ventes : Courbes dynamiques pour observer l’évolution des ventes par mois.
-### Répartition géographique : Analyse des ventes par région et par état.
-### Impact du délai de livraison : Étude de l’effet du temps de livraison sur le chiffre d’affaires.
-### Export des données : Téléchargement des données filtrées sous format CSV.
+ Indicateurs clés : Affichage du total des ventes et des statistiques générales.
+ Filtrage dynamique : Sélection de la période, de la région et de la catégorie de produits.
+ Analyse des produits et clients : Identification des produits les plus vendus et des clients les plus rentables.
+ Corrélation des variables : Visualisation des liens entre ventes et délais de livraison.
+ Suivi des tendances des ventes : Courbes dynamiques pour observer l’évolution des ventes par mois.
+ Répartition géographique : Analyse des ventes par région et par état.
+ Impact du délai de livraison : Étude de l’effet du temps de livraison sur le chiffre d’affaires.
+ Export des données : Téléchargement des données filtrées sous format CSV.
 pip install streamlit pandas plotly
 
 ## Structure du projet
