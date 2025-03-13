@@ -13,6 +13,11 @@ Ce projet est une application interactive développée avec Streamlit, permettan
 - Pandas : Manipulation des données.
 - Matplotlib & Seaborn : Visualisation statistique.
 - Plotly : Graphiques interactifs.
+  ## Structure du projet
+  📦 Projet_Analyse_Ventes
+ ┣ 📜 dashboard.py                 # Script principal de l'application
+ ┣  📜 train.csv                   # Fichier des ventes à analyser
+ ┣ 📜 README.md                     # Documentation du projet
 
 ## Fonctionnalités
  Indicateurs clés : Affichage du total des ventes et des statistiques générales.
