@@ -4,9 +4,9 @@
 Ce projet est une application interactive développée avec Streamlit, permettant d’analyser et de visualiser les tendances de vente et le comportement des clients.
 ## Objectifs
 •	Suivre l’évolution des ventes sur une période donnée.
-	•	Analyser les délais de livraison et les tendances d’expédition.
-	•	Visualiser les performances commerciales avec des graphiques interactifs.
-	•	Comprendre le comportement des clients à travers l’analyse des commandes.
+•	Analyser les délais de livraison et les tendances d’expédition.
+•	Visualiser les performances commerciales avec des graphiques interactifs.
+•	Comprendre le comportement des clients à travers l’analyse des commandes.
 
 ## Fonctionnalités
  Indicateurs clés : Affichage du total des ventes et des statistiques générales.
