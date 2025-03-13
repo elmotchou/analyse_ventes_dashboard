@@ -19,6 +19,11 @@ Ce projet est une application interactive développée avec Streamlit, permettan
  - ┣  📜 train.csv                   # Fichier des ventes à analyser
  - ┣ 📜 README.md                     # Documentation du projet
 
+ ## Installation et Exécution
+   ### Prérequis
+   Avant d’exécuter le projet, assure-toi d’avoir Python installé, puis installe les bibliothèques nécessaires :
+   pip install streamlit pandas matplotlib seaborn plotly
+
 ## Fonctionnalités
  Indicateurs clés : Affichage du total des ventes et des statistiques générales.
  Filtrage dynamique : Sélection de la période, de la région et de la catégorie de produits.
