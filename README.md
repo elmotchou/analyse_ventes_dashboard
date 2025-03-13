@@ -1,10 +1,12 @@
-# Analyse desTendances de Vente et Comportements d’Achat
+# Dashboard Analyse des Tendances de Vente et Comportements d’Achat
 
 ##  Description
-Ce projet est un tableau de bord interactif développé avec Streamlit, permettant d'analyser les tendances des ventes et les comportements d'achat à partir d'un dataset de transactions commerciales. Il offre plusieurs visualisations interactives pour aider à identifier les tendances clés et à optimiser la prise de décision.
-
-Le projet utilise des bibliothèques comme pandas, matplotlib, seaborn et plotly pour la manipulation des données et la création de graphiques dynamiques.
----
+Ce projet est une application interactive développée avec Streamlit, permettant d’analyser et de visualiser les tendances de vente et le comportement des clients.
+## Objectifs
+•	Suivre l’évolution des ventes sur une période donnée.
+	•	Analyser les délais de livraison et les tendances d’expédition.
+	•	Visualiser les performances commerciales avec des graphiques interactifs.
+	•	Comprendre le comportement des clients à travers l’analyse des commandes.
 
 ## Fonctionnalités
  Indicateurs clés : Affichage du total des ventes et des statistiques générales.
