@@ -1,4 +1,4 @@
-# Dashboard Analyse des Tendances de Vente et Comportements d’Achat
+# Dashboard d'Analyse des Tendances de Vente et Comportements d’Achat
 
 ##  Description
 Ce projet est une application interactive développée avec Streamlit, permettant d’analyser et de visualiser les tendances de vente et le comportement des clients.
@@ -7,6 +7,12 @@ Ce projet est une application interactive développée avec Streamlit, permettan
 -	Analyser les délais de livraison et les tendances d’expédition.
 - Visualiser les performances commerciales avec des graphiques interactifs.
 -	Comprendre le comportement des clients à travers l’analyse des commandes.
+## Technologies utilisées
+-	Python : Traitement des données et développement de l’application.
+-	Streamlit : Création d’une interface interactive.
+- Pandas : Manipulation des données.
+- Matplotlib & Seaborn : Visualisation statistique.
+- Plotly : Graphiques interactifs.
 
 ## Fonctionnalités
  Indicateurs clés : Affichage du total des ventes et des statistiques générales.
